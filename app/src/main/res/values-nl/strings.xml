@@ -1,1 +1,18 @@
-
+ <resources>
+   <string name="login2"></string>
+   <string name="title_dialog"></string>
+   <string name="title_favorites"></string>
+   <string name="title_history"></string>
+   <string name="title_settings"></string>
+   <string name="test112"></string>
+   <string name="test113"></string>
+   <string name="test114"></string>
+   <string name="test115"></string>
+   <string name="kristina"></string>
+   <string name="ilya"></string>
+   <string name="app_name"></string>
+   <string name="title_home">Thuis</string>
+   <string name="title_dashboard"></string>
+   <string name="title_notifications">Meldingen</string>
+   <string name="timofey">Timofey</string>
+ </resources>
